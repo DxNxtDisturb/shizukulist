@@ -6,7 +6,6 @@
   - [Communication](#communication)
   - [Customization](#customization)
   - [Development utilities](#development-utilities)
-  - [Device Owner (DPM)](#device-owner-dpm)
   - [Display management](#display-management)
   - [Entertainment](#entertainment)
   - [File management](#file-management)
