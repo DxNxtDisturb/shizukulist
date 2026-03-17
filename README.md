@@ -1,28 +1,6 @@
-# awesome-shizuku
-
-### Languages
-English | [简体中文](/README_cn.md) | [繁體中文](/README_tw.md)
-
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-Shizuku allows normal apps to use system APIs directly with elevated privileges using ADB on non-rooted devices. This list compiles a few apps that are known to make use of Shizuku's capabilities.
-
-More details: https://shizuku.rikka.app/
-
-Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
-
-
-> [!NOTE]
-> To stay up-to-date with this list, [you can check the daily changelogs](https://github.com/timschneeb/changelog-awesome-shizuku).
-
-
---------------------
-
-
 ## Table of contents
 
 - [Apps](#apps)
-  - [Android TV](#android-tv)
   - [Audio](#audio)
   - [Automation](#automation)
   - [Communication](#communication)
@@ -58,17 +36,10 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints.
 - [Miscellaneous content](#miscellaneous-content)
 - [Rish shell](#rish-shell)
 - [Annotations](#annotations)
-- [License](#license)
 
 --------------------
 
 ## Apps
-
-### Android TV
-
-* [flicky](https://apt.izzysoft.de/fdroid/index/apk/app.flicky) - An F-Droid client designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/flicky)
-* [fluffy](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy) - An file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)
-
 
 ### Audio
 
@@ -448,9 +419,3 @@ The official rish documentation is available here: https://github.com/RikkaApps/
 - `Proprietary` - Not licensed under a FOSS license. Applies to closed-source software or source-available projects.
 - `n-day trial` - Payment required after `n` days
 - `Root` - Requires Shizuku to run in Root mode
-
---------------------
-
-## License
-
-This list is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) License.
